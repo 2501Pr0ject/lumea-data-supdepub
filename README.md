@@ -12,4 +12,4 @@ Aucune donnée personnelle réelle.
 
 ## Devoir en autonomie (EDA)
 
-- `animes.csv` : 24 985 animes, 16 colonnes (extrait allégé d'un jeu de données public MyAnimeList, sans les synopsis), utilisé par le notebook « Atelier EDA » du devoir en autonomie.
+- `animes.csv` : extrait allégé d'un jeu de données public MyAnimeList (16 colonnes, sans les synopsis, contenu tout public uniquement), utilisé par le notebook « Atelier EDA » du devoir en autonomie.
