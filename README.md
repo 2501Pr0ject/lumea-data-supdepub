@@ -9,3 +9,7 @@ Trois fichiers Excel **entièrement fictifs** (marque de cosmétiques imaginaire
 - `lumea_scores_campagne.xlsx` : scores de la campagne « Sérum Éclat » pour 600 clients de test (secours, séance 6).
 
 Aucune donnée personnelle réelle.
+
+## Devoir en autonomie (EDA)
+
+- `animes.csv` : 24 985 animes, 16 colonnes (extrait allégé d'un jeu de données public MyAnimeList, sans les synopsis), utilisé par le notebook « Atelier EDA » du devoir en autonomie.
